@@ -1,0 +1,19 @@
+// Here you can add other styles
+.app-header .navbar-brand {
+  width: 200px;
+  background-color: rebeccapurple;
+}
+
+.brand-minimized .app-header .navbar-brand {
+  background-color: rebeccapurple;
+
+}
+
+.brand-minimized .app-header .navbar-brand h2 {
+  display:none;
+}
+
+.navbar-brand h2{
+  color:white;
+  padding:6px 0px 0px 4px;
+}
